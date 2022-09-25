@@ -10,5 +10,4 @@ basic.forever(function () {
     } else {
         maqueen.motorStop(maqueen.Motors.All)
     }
-    basic.pause(100)
 })
